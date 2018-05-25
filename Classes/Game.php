@@ -31,6 +31,4 @@ function getType(){
 }
 
 
-
-
 ?>

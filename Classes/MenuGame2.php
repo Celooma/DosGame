@@ -18,7 +18,7 @@
 
 <div class="body"> 
      
-  <form action="">
+  <form action="ControllerGame2" method="GET">
     <div class ="box">
     <center>  <div id="message">  </div> </center>
         <table>
@@ -26,7 +26,8 @@
              <td> <input class="input" type="text" name="firstname" placeholder="First name" required> </td>
              <td> <input class="input" type="text" name="lastname" placeholder="Last name" required> </td>
           </table>  
-          <center>  <button name="submit" id="submit"> Start the game </button> </center>
+          <center>  <input type="submit" id="submit" name="submit">   </center>
+          
     </div>
   </form>
 </div> 

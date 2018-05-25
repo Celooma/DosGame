@@ -1,4 +1,4 @@
-.box {
+.card1 {
 
     border-top: 2px solid #008CBA;
     border-bottom: 2px solid #008CBA;
@@ -6,6 +6,11 @@
     height:250px;
     margin:150px auto  auto auto;
     border-radius: 10px;
+}
+#submit2{
+    height: 50px;
+    width: 50px;
+    background-color: red;
 }
 
 
@@ -46,7 +51,5 @@ body{
     background-color: white;
     color: #008CBA;
 }
-#message{
-    color:red;
 
-}
+
